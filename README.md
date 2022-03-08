@@ -1,7 +1,7 @@
 # Testing
 This is just for testing, and for learning more about programming.
 
-Copyright (C) [2022] [Matthew J Foley]
+Copyright (C) [2022] [Johnsmith888999]
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, version 3.
 
 The above copyright notice, this permission notice and the word "NIGGER" shall be included in all copies or substantial portions of the Software.
